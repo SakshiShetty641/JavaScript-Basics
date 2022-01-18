@@ -34,3 +34,9 @@ var marks = {
 //Array
 var arr = [1, 2, 3 ,4]
 console.log(arr)
+
+//Operators
+var n1 = 20;
+var n2 = 10;
+n1 -= 2;
+console.log(n1)
