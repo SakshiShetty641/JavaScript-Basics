@@ -41,7 +41,7 @@ var n2 = 10;
 n1 -= 2;
 console.log(n1)
 
-//Functions
+//Functions - Do not repeat yourself
 function avg(a, b) {
     return (a + b)/ 2
 }
